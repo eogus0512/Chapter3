@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstring>
 #include "Car.h"
+
 using namespace std;
 
 void Car::InitMembers(const char* ID, int fuel)
